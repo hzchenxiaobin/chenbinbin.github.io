@@ -1,10 +1,15 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Welcome to my GitHub Page</title>
-</head>
-<body>
-    <h1>Hello, this is my personal homepage!</h1>
-    <p>Welcome to my GitHub Pages site.</p>
-</body>
-</html>
+### 陈斌斌
+
+#### 教育经历
+
+浙江大学  信息与通信工程 2012-2016
+
+
+
+#### 工作经历
+
+科大讯飞  2016.7-2018.5
+
+钉钉 2018.5-2021.7
+
+华为通信技术有限公司 2021.9-至今
